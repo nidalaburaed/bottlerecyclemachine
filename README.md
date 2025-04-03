@@ -1,10 +1,6 @@
 # C++-based Bottle Recycle Service
 
-C++ console application that implements your bottle recycling system. It features:
-A main menu with options: “Aloita palautus” (Start recycling) and “Lopeta” (Exit).
-A recycling menu where users can select different bottle types, accumulating their value.
-	•	A receipt generation system that summarizes the total amount earned and number of items recycled.
-	•	A looping structure that keeps the program running until the user explicitly exits.
+C++ console application that implements your bottle recycling system
 
 ## How It Works
 
