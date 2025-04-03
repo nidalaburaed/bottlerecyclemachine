@@ -1,6 +1,6 @@
 # C++-based Bottle Recycle Service
 
-C++ console application that implements your bottle recycling system
+C++ console application that implements bottle recycling system
 
 ## How It Works
 
